@@ -3,7 +3,7 @@
 A modern, responsive web application for discovering and searching TV shows using the TVMaze API. Built with React, Tailwind CSS v4, and Vite.
 
 ## 🚀 Live Demo
-[View Live Project](https://your-vercel-link-here.vercel.app)
+[View Live Project](https://movie-explorer-seven-silk.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Frontend**: React 18, React Router DOM
@@ -23,5 +23,5 @@ A modern, responsive web application for discovering and searching TV shows usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/tv-shows-hub.git
+   git clone https://github.com/your-username/movie-explorer.git
    cd tv-shows-hub
